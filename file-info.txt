@@ -1,0 +1,36 @@
+--------------------
+General Information:
+--------------------
+The term space weather refers to the variable conditions on the sun and in 
+Space weather can produce electromagnetic fields that induce extreme currents 
+space weather produces solar energetic particles, which can damage satellites 
+used for commercial communications, global positioning, intelligence gathering 
+and weather forecasting. The sun is the main source of space weather. Sudden 
+bursts of plasma and magnetic field structures from the sun's atmosphere called 
+coronal mass ejections together with sudden bursts of radiation, or solar 
+flares, all cause space weather effects here on Earth.
+(Source: ready.gov/space-weather)
+
+---------------------
+Common Space Weather:
+---------------------
+1) Auroras
+2) Coronal Holes
+3) Coronal Mass Ejections
+4) Galactic Cosmic Rays
+5) Geomagnetic Storms
+6) Ionospheric Scintillation
+7) Radiation Belts
+8) Solar EUV Irradiance
+9) Solar Flares 
+10) Solar Wind
+11) Solar Radiation Storm
+12) Sunspots and Solar Cycle
+(Source: swpc.noaa.gov/about-space-weather)
+
+------------------------
+High-Risk Space Weather:
+------------------------
+1) Coronal Mass Ejections (CMEs)
+2) Solar Radiation Storms
+3) Solar Flares

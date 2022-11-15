@@ -1,0 +1,36 @@
+-------------------
+Communication Plan:
+-------------------
+Disasters of all types often create confusion and chaos. Having a plan ready 
+before disaster strikes can make the difference between life and death.
+
+1) Capability to receive alerts/notifications regarding the disaster.
+	2a) Communication infrastructures may be interrupted by CMEs/solar flares 
+	    for a few days.
+	2b) NOAA weather-band is dependable source of emergency guidance 
+          during CMEs, solar flares, and other natural disasters.
+	2c) Ensure your smartphone can receive broadcasted alerts from the 
+	    Wireless Emergency System.
+	2d) Consider downloading FEMA mobile app.
+
+2) A pre-designated shelter or meeting point to meet if separated.
+	2a) This can be your home or a midpoint between schools and work (etc). 
+	2b) Consider contingencies depending on the time of day and schedules.
+
+3) Routes to and from frequented places to the designated meeting point.
+	3a) GPS may be interrupted by CMEs/solar flares for a period of time.
+	3b) Print maps of local evacuation routes.
+	3c) Add routes to nearest hospital, authorities, grocery store.
+
+4) Contact info for everyone and frequently traveled locations.
+	4a) Cellular communications may be interrupted by CMEs/solar flares while 
+          landlines are not.
+	4b) Include addresses/landline numbers for frequented destinations such as 
+          work, school, grocery, gym, etc.
+
+5) Consider any special needs required for household members such as seniors, 
+   those with disabilities, or pets.
+	5a) This may impact possible meeting locations and evacuation routes.
+	5b) Consider if your pet is small enough to shelter-in-place if necessary
+
+Visit ready.gov/plan for more information including fillable forms.
